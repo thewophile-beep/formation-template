@@ -1,4 +1,3 @@
-/// Description
 Class Formation.BS.RestInput Extends Ens.BusinessService
 {
 
